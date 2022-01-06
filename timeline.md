@@ -164,7 +164,7 @@ layout: default
 | Time     | Explination                                                                                                      | Emotion/Reaction                          |
 |----------|------------------------------------------------------------------------------------------------------------------|-------------------------------------------|
 | 7:00 am  | Kids are going back to school. What.. what is this?  It's so quite.. what's going on?                            | ![school](/assets/img/school.gif)         |
-| 9:00 am  | I like my job.                                                                                                   | ![hacker](/assets/img/hacker.gif)          |
+| 9:00 am  | I like my job.                                                                                                   | ![hacker](/assets/img/hacker.gif)         |
 
 ---
 
