@@ -55,4 +55,19 @@ layout: default
 | 7:15 pm  | Pretty boring at my moms house.                                                                                                                                                                                                                                                             | ![bored](/assets/img/bored.gif)       |
 | 10:00 pm | Watching The Witcher with Nini. I realized I don't want to do this  or be here.                                                                                                                                                                                                             | ![beHere](/assets/img/beHere.gif)     |
 
+---
+
+## 12/27
+
+| Time     | Explination                                                                                                                                                          | Emotion/Reaction                            |
+|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
+| 2:00 am  | Had sex with Nini. Couldn't sleep and went  to the couch. Really dissapointed with myself                                                                            | ![notAgain](/assets/img/notAgain.gif)       |
+| 12:30 pm | Had a conversation with Nini about mediation.  She has put 0 thought into this whole situation.                                                                      | ![itsDone](/assets/img/itsDone.gif)         |
+| 2:00 pm  | Still arguing since bringing up mediation. So  tired of being blamed for everything. I know I'm  not perfect, but seriously?                                         | ![overIt](/assets/img/overIt.gif)           |
+| 3:00 pm  | Took the trash out and went to Wal-Mart to buy a  record I wanted. Felt like treating myself.                                                                        | ![treatyoself](/assets/img/treatYoSelf.gif) |
+| 4:00 pm  | Took Jacob to the doctor's office. Nini wanted to  put him on medication for his behavior. I was not  having that.                                                   | ![no](/assets/img/no.gif)                   |
+| 5:50 pm  | Took the family to dinner. Got a few appitizers and  boy was it expensive. Don't regret it because the  kids had fun.                                                | ![escalated](/assets/img/escalated.gif)     |
+| 8:00 pm  | Nini thought about it and wants to do couples therapy.  I.. I don't know how I feel about that. Seems like  talking about mediation made her think about everything. | ![confused](/assets/img/confused.gif)       |
+| 11:30 pm | Ivey couldn't sleep and we hung out in my office listening  to my new record. I showed her all of my keepsakes and it  was great to reminiscence with her.           | ![behold](/assets/img/behold.gif)           |
+
 [back](./)
