@@ -70,4 +70,102 @@ layout: default
 | 8:00 pm  | Nini thought about it and wants to do couples therapy.  I.. I don't know how I feel about that. Seems like  talking about mediation made her think about everything. | ![confused](/assets/img/confused.gif)       |
 | 11:30 pm | Ivey couldn't sleep and we hung out in my office listening  to my new record. I showed her all of my keepsakes and it  was great to reminiscence with her.           | ![behold](/assets/img/behold.gif)           |
 
+---
+
+## 12/28
+
+| Time    | Explination                                          | Emotion/Reaction                        |
+|---------|------------------------------------------------------|-----------------------------------------|
+| 9:30 am | The newest book in my favorite series  came out!     | ![happening](/assets/img/happening.gif) |
+| 1:30 pm | Though about Nini's offer to go to couples thearpy.  | ![trap](/assets/img/trap.gif)           |
+
+---
+
+## 12/29
+
+| Time     | Explination                                                                                                                                                                                                                         | Emotion/Reaction                    |
+|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|
+| 12:30 am | Saw text from Nini to her sister. Nini only gives her sister a skewed  and warped story of events. Blames me for everything and makes it seem  like I'm a terrible vindictive person.                                               | ![notMad](/assets/img/notMad.gif)   |
+| 3:00 am  | Couldn't sleep. I've been waiting for the Boba Fett show to come out  and watched it when it released.. at 3:00 am in the morning.                                                                                                  | ![boba](/assets/img/boba.gif)       |
+| 1:00 pm  | So tired..                                                                                                                                                                                                                          | ![tired](/assets/img/sotired.gif)   |
+| 3:30 pm  | I ate Nini's left over pizza at 4:00 am. I intended to tell her and buy her  lunch. Forgot I did that and now she is pissed. Offered to buy her lunch or  order a new pizza but she doesn't want that. I shouldn't have done that.  | ![whoops](/assets/img/whoops.gif)   |
+| 4:00 pm  | Threw the ball with Ivey. She's really improving!                                                                                                                                                                                   | ![sandlot](/assets/img/sandlot.gif) |
+| 5:00 pm  | Worked with Aubree and her new science kit.                                                                                                                                                                                         | ![science](/assets/img/science.gif) |
+
+---
+
+## 12/30
+
+| Time    | Explination                                                                                 | Emotion/Reaction                      |
+|---------|---------------------------------------------------------------------------------------------|---------------------------------------|
+| 1:30 pm | Played baseball with Jacob and Ivey. Happy  to get out of the house and hang out with them. | ![sandlot2](/assets/img/sandlot2.gif) |
+| 5:00 pm | Painted with the kids. They are so awesome.                                                 | ![bob]9/assets/img/bob.gif)           |
+
+---
+
+## 12/31
+
+| Time     | Explination                                                                                                                                                                                                                                      | Emotion/Reaction                            |
+|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
+| 3:47 am  | Can't sleep. Nini posted on Facebook acting  like she set up the painting session. All I can  think of is how she  pretends I don't exists on  social media while still wanting me to treat her  like we're still in a relationship and my wife. | ![whale](/assets/img/whale.gif)             |
+| 12:00 pm | Got haircuts with Jacob. What a dapper young  gentleman he is.                                                                                                                                                                                   | ![lookingGood](/assets/img/lookingGood.gif) |
+| 3:00 pm  | Nini thought I was going to her sisters for New  Years. I talked to her a week prior to it about  going out with friends. She literally set up a  New Years party with her sister and excluded me  from it, but now expected me to go.           | ![notAgain](/assets/img/shitAgain.gif)      |
+| 4:00 pm  | Took Ivey to get her nails done. She's growing up  so fast!                                                                                                                                                                                      | ![nails](/assets/img/nails.gif)             |
+| 4:30 pm  | Got a complement on my haircut. Feels really good  getting a positive comment. What's this.. seems..  seems I've got something in my eye.                                                                                                        | ![thanks](/assets/img/thanks.gif)           |
+| 7:00 pm  | Dressed up for New Years. Going to a friends house.  Nini is mad, but I don't care. Feeling good about  myself.                                                                                                                                  | ![fancy](/assets/img/fancy.gif)             |
+| 8:00 pm  | Walked in to my friends house. Greeted with a warm  welcome and everyone commented on how good I looked.  Feels nice to have positive feedback.                                                                                                  | ![ohStop](/assets/img/ohStop.gif)           |
+
+---
+
+## 01/01 Happy New Year!
+
+| Time     | Explination                                                                                                                                                      | Emotion/Reaction                            |
+|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
+| 12:01 am | Happy to be around awesome people.                                                                                                                               | ![loveyouguys](/assets/img/loveyouguys.gif) |
+| 12:31 am | Ivey texted me she had her first period.  I was freaked out a little, but told her  it's OK and that she's awesome. Guess we're  starting 2022 out with a bang.  | ![omg](/assets/img/omg.gif)                 |
+| 11:00 am | Nini is upset with me. Says I choose my  friends over my family. Now I'm getting the  silent treatment. I don't give a shit.                                     | ![dontcare](/assets/img/dontcare.gif)       |
+| 2:00 pm  | Made progress with my personal project. Feels  so awesome getting something to work.                                                                             | ![hellyeah](/assets/img/hellyeah.gif)       |
+| 3:30 pm  | Taught Aubree how to ride her bike without  training wheels.                                                                                                     | ![mygirl](/assets/img/mygirl.gif)           |
+| 5:00 pm  | Went on a walk with the kids. Feels good getting  out of the house.                                                                                              | ![walk](/assets/img/walk.gif)               |
+| 9:00 pm  | Playing board games with my friends. Been a while  since I've done this. Nice to have fun again.                                                                 | ![games](/assets/img/games.gif)             |
+| 10:00 pm | A friend of a friend is flirting with me (maybe  I don't know). Anyway, nice to think I still have it  even if she is just being nice.                           | ![excited](/assets/img/excited.gif)         |
+
+---
+
+## 01/02
+
+| Time    | Explination                                                                                                                                                                        | Emotion/Reaction                                |
+|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
+| 1:00 pm | Nini wakes up. She's giving me the  silent treatment. I don't care.                                                                                                                | ![communication](/assets/img/communication.gif) |
+| 3:30 pm | I ran for the first time in years. Damn  I'm old, but I feel like I can do this.                                                                                                   | ![power](/assets/img/power.gif)                 |
+| 8:30 pm | PLaying my regular D&D game with friends online.  Really not enjoying it. Realize I'm not able to  enjoy this or video games any more. Starting to  doubt myself. Just not happy.  | ![imfine](/assets/img/imfine.gif)               |
+
+---
+
+## 01/03
+
+| Time     | Explination                                               | Emotion/Reaction                   |
+|----------|-----------------------------------------------------------|------------------------------------|
+| 11:00 am | Cleaned my car. Trying to improve  my self and situation. | ![car](/assets/img/car.gif)        |
+| 5:00 pm  | Went for a run again. Let's keep it up!                   | ![jogging](/assets/img/jogging.gif |
+
+## 01/04
+
+| Time     | Explination                                                                                                      | Emotion/Reaction                          |
+|----------|------------------------------------------------------------------------------------------------------------------|-------------------------------------------|
+| 9:00 am  | Ahhhhhhh! Back to work. It's actually not bad  and look forward to picking it back up.                           | ![work](/assets/img/work.gif)             |
+| 3:00 pm  | Talked about mediation again. She said she'll get  me what she wants soon.                                       | ![sure](/assets/img/sure.gif              |
+| 10:00 pm | Played video games and didn't feel bad. I guess  I've decided to not let Nini make me feel bad for  my hobbies.  | ![videogames](/assets/img/videogames.gif) |
+
+---
+
+## 01/05
+
+| Time     | Explination                                                                                                      | Emotion/Reaction                          |
+|----------|------------------------------------------------------------------------------------------------------------------|-------------------------------------------|
+| 7:00 am  | Kids are going back to school. What.. what is this?  It's so quite.. what's going on?                            | ![school](/assets/img/school.gif)         |
+| 9:00 am  | I like my job.                                                                                                   | ![hacker](/assets/img/hacker.gif          |
+
+---
+
 [back](./)
