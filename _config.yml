@@ -1,10 +1,15 @@
-title: Minimalist theme
-logo: /assets/img/logo.png
-email: bogus at gmail dot com
-description: Minimalist is a theme powered by Jekyll. It is modified based on the Minimal theme.
+title: All-Star Me
+logo: /assets/img/allstar.png
+email: mellgass@gmail.com
+description: 
+  My name is Ozymandias, King of Kings;
+  Look on my Works, ye Mighty, and despair!
+  Nothing beside remains. Round the decay
+  Of that colossal Wreck, boundless and bare
+  The lone and level sands stretch far away.
 show_downloads: false
-google_analytics: UA-108144808-1
-color-scheme: auto
+google_analytics: 
+color-scheme: dark
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
