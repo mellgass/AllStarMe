@@ -4,6 +4,10 @@ layout: default
 
 # Matt's Core Values
 
-test
+- Honesty
+- Loyalty
+- Kindness
+- Selflessness
+- Understanding
 
 [back](./)
