@@ -6,8 +6,10 @@ layout: default
 
 ---
 
-## 12/23  
-
-![Facepalm](/assets/img/allstar.png)
+| Date  | Time    | Emotion/Reaction                      |
+|-------|---------|---------------------------------------|
+| 12/23 | 4:30 pm | ![FacePalm](/assets/img/facepalm.gif) |
+|       |         |                                       |
+|       |         |                                       |
 
 [back](./)
