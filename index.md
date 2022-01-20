@@ -9,5 +9,6 @@ layout: default
 | [Timeline](./timeline.html) |
 | [Core Values](./coreValues.html) |
 | [Self-Image](./selfImage.html) |
+| [Strengths](./strengths.html) |
 
 ---
