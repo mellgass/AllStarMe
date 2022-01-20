@@ -4,7 +4,7 @@ layout: default
 
 # My Strengths
 
-==
+---
 
  ![peoplelikeme](/assets/img/smartenough.gif)
 
